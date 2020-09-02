@@ -1,7 +1,7 @@
-/// Source : https://leetcode-cn.com/problems/keys-and-rooms/
+/// Source : https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/
 /// Author : chenlin
-/// Time   : 2020-08-31
-/// Updated: 2020-08-31
+/// Time   : 2020-09-02
+/// Updated: 2020-09-02
 
 // string search
 // Time Complexity: O(n)
