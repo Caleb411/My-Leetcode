@@ -6,7 +6,7 @@
 // partition
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-class Solution2 {
+class Solution3 {
     public void sortColors(int[] nums) {
         int zero = -1;  // nums[0...zero] == 0
         int two = nums.length;  // nums[two...n-1] == 2
@@ -17,6 +17,9 @@ class Solution2 {
                 two--;
                 swap(nums, i, two);
             }else{  // nums[i] == 0
+                if(nums[i] != 0){
+                    throw new IllegalArgumentException("must be zero");
+                }
                 zero++;
                 swap(nums, i, zero);
                 i++;
