@@ -6,7 +6,8 @@
 // Collision pointers
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-class Solution {
+class Solution2 {
+    // 对撞指针一遍扫描
     public int[] twoSum(int[] numbers, int target) {
         int left = 0;
         int right = numbers.length-1;
