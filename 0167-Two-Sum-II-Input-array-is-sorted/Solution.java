@@ -1,12 +1,13 @@
-/// Source : https://leetcode-cn.com/problems/sort-colors/
+/// Source : https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
 /// Author : chenlin
-/// Time   : 2020-09-05
-/// Updated: 2020-09-05
+/// Time   : 2020-09-06
+/// Updated: 2020-09-06
 
 // binary search
 // Time Complexity: O(nlogn)
 // Space Complexity: O(1)
 class Solution {
+    // 遍历数组的同时对遍历位置右边的区间做二分搜索
     public int[] twoSum(int[] numbers, int target) {
         int n = numbers.length;
         for(int i = 0;i < n;i++){
