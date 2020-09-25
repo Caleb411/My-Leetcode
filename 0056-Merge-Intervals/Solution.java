@@ -1,7 +1,7 @@
-/// Source : https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
+/// Source : https://leetcode-cn.com/problems/merge-intervals/
 /// Author : chenlin
-/// Time   : 2020-09-08
-/// Updated: 2020-09-08
+/// Time   : 2020-09-25
+/// Updated: 2020-09-25
 
 // intervals
 // Time Complexity: O(nlogn)
