@@ -11,7 +11,7 @@ class Solution {
         List<Integer> res = new ArrayList<>();
         Deque<TreeNode> stack = new LinkedList<>();
         TreeNode last = null;   // 记录上一次遍历的结点
-        TreeNode cur = root;    // 记录当前遍历的结点
+        TreeNode cur = root;    // 记录要入栈的结点
         while(cur != null || !stack.isEmpty()){
             if(cur != null){
                 stack.push(cur);
