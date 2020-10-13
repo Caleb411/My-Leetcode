@@ -1,5 +1,20 @@
 # My-Leetcode:coffee:
-## 已完成题目（共51题）
+## 剑指Offer（按题号顺序排列，共2题）
+
+| 题号 | 问题                                                         |                           我的解答                           |
+| :--: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|  20  | [表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/%E5%89%91%E6%8C%87Offer20-%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2/Solution.java) |
+|  40  | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/%E5%89%91%E6%8C%87Offer40-%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0/Solution.java) |
+
+## 动态规划系列（按做题顺序排列，共2题）
+
+| 题号 | 问题                                                         | 参考资料                                                     |                           我的解答                           |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------: |
+| 509  | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | [动态规划详解（修订版）](https://mp.weixin.qq.com/s/Cw39C9MY9Wr2JlcvBQZMcA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0509-Fibonacci-Number/Solution.java) |
+| 322  | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)    | [动态规划详解（修订版）](https://mp.weixin.qq.com/s/Cw39C9MY9Wr2JlcvBQZMcA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0322-Coin-Change/Solution.java) |
+|      |                                                              |                                                              |                                                              |
+
+## 其他题目（按题号顺序排列，共52题）
 
 | 题号 | 问题 | 参考资料 | 我的解答 | 类别 |
 | :---- | :--- | :--- | :---: | :---- |
@@ -45,6 +60,7 @@
 | 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0538-Convert-BST-to-Greater-Tree/Solution.java) | 中序遍历 |
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0538-Convert-BST-to-Greater-Tree/Solution.java) | 中序遍历 |
 | 567 | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) | [我写了套框架，把滑动窗口算法变成了默写题](https://mp.weixin.qq.com/s/ioKXTMZufDECBUwRRp3zaA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0567-Permutation-in-String/Solution.java) | 滑动窗口 |
+| 652 | [寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/) | [东哥手把手带你刷二叉树（三）](https://mp.weixin.qq.com/s/LJbpo49qppIeRs-FbgjsSQ) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0652-Find-Duplicate-Subtrees/Solution.java) | 后序遍历+序列化 |
 | 654 | [最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/) | [东哥手把手帮你刷通二叉树（二）](https://mp.weixin.qq.com/s/OlpaDhPDTJlQ5MJ8tsARlA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0654-Maximum-Binary-Tree/Solution.java) | 前序遍历 |
 | 710 | [黑名单中的随机数](https://leetcode-cn.com/problems/random-pick-with-blacklist/) | [给我 O(1) 时间，我能查找/删除数组中的任意元素](https://mp.weixin.qq.com/s/eEhW8ByTA9fJv1FmT1lVsw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0710-Random-Pick-with-Blacklist/Solution.java) | 随机读取 |
 | 841 | [钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0841-Keys-and-Rooms/Solution.java) | 深度优先遍历 |
@@ -54,11 +70,3 @@
 | 1109 | [航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/) | [论那些小而美的算法技巧：差分数组/前缀和](https://mp.weixin.qq.com/s/9L6lz0XDZ9gi-d_iPrSs8Q) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1109-Corporate-Flight-Bookings/Solution.java) | 差分数组 |
 | 1288 | [删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/) | [一文秒杀所有区间相关问题](https://mp.weixin.qq.com/s/Eb6ewVajH56cUlY9LetRJw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1288-Remove-Covered-Intervals/Solution.java) | 区间 |
 | 1541 | [平衡括号字符串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [手把手解决三道括号相关的算法题](https://mp.weixin.qq.com/s/plxWQsTgW6LW3T7yBAXjQg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1541-Minimum-Insertions-to-Balance-a-Parentheses-String/Solution.java) | 括号匹配 |
-
-## 剑指Offer（共2题）
-
-| 题号 | 问题                                                         | 参考资料 |                           我的解答                           |
-| :--: | ------------------------------------------------------------ | -------- | :----------------------------------------------------------: |
-|  20  | [表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | -        | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/%E5%89%91%E6%8C%87Offer20-%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2/Solution.java) |
-|  40  | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | -        | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/%E5%89%91%E6%8C%87Offer40-%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0/Solution.java) |
-
