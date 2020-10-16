@@ -14,7 +14,15 @@
 | 322  | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)    | [动态规划详解（修订版）](https://mp.weixin.qq.com/s/Cw39C9MY9Wr2JlcvBQZMcA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0322-Coin-Change/Solution.java) |
 |      |                                                              |                                                              |                                                              |
 
-## 其他题目（按题号顺序排列，共52题）
+## 回溯算法系列（按做题顺序排列，共2题）
+
+| 题号 | 问题                                                     | 参考资料                                                     |                           我的解答                           |
+| ---- | -------------------------------------------------------- | ------------------------------------------------------------ | :----------------------------------------------------------: |
+| 46   | [全排列](https://leetcode-cn.com/problems/permutations/) | [回溯算法解题套路框架](https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie/hui-su-suan-fa-xiang-jie-xiu-ding-ban) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0046-Permutations/Solution.java) |
+| 51   | [N 皇后](https://leetcode-cn.com/problems/n-queens/)     | [回溯算法解题套路框架](https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie-qing-an-shun-xu-yue-du/hui-su-suan-fa-xiang-jie-xiu-ding-ban) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0051-N-Queens/Solution.java) |
+|      |                                                          |                                                              |                                                              |
+
+## 其他题目（按题号顺序排列，共54题）
 
 | 题号 | 问题 | 参考资料 | 我的解答 | 类别 |
 | :---- | :--- | :--- | :---: | :---- |
@@ -36,7 +44,7 @@
 | 114 | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [东哥手把手带你套框架刷通二叉树（一）](https://mp.weixin.qq.com/s/izZ5uiWzTagagJec6Y7RvQ) | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0114-Flatten-Binary-Tree-to-Linked-List) | 后序遍历 |
 | 116 | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [东哥手把手带你套框架刷通二叉树（一）](https://mp.weixin.qq.com/s/izZ5uiWzTagagJec6Y7RvQ) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0116-Populating-Next-Right-Pointers-in-Each-Node/Solution.java) | 前序遍历 |
 | 117 | [填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0117-Populating-Next-Right-Pointers-in-Each-Node-II) | 层序遍历 |
-| 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0141-Linked-List-Cycle/Solution.java) | 快慢指针 |
+| 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [双指针技巧汇总](https://mp.weixin.qq.com/s/yLc7-CZdti8gEMGWhd0JTg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0141-Linked-List-Cycle/Solution.java) | 快慢指针 |
 | 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [双指针技巧汇总](https://mp.weixin.qq.com/s/yLc7-CZdti8gEMGWhd0JTg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0002-Add-Two-Numbers/Solution.java) | 快慢指针 |
 | 145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0145-Binary-Tree-Postorder-Traversal/Solution.java) | 非递归 |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0167-Two-Sum-II-Input-array-is-sorted) | [二分查找](https://github.com/Caleb411/My-Leetcode/blob/master/0167-Two-Sum-II-Input-array-is-sorted/Solution.java)/[对撞指针](https://github.com/Caleb411/My-Leetcode/blob/master/0167-Two-Sum-II-Input-array-is-sorted/Solution2.java) |
@@ -54,9 +62,10 @@
 | 345 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0345-Reverse-Vowels-of-a-String/Solution.java) | 对撞指针 |
 | 347 | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0347-Top-K-Frequent-Elements) | [最小堆](https://github.com/Caleb411/My-Leetcode/blob/master/0347-Top-K-Frequent-Elements/Solution.java)/[桶排序](https://github.com/Caleb411/My-Leetcode/blob/master/0347-Top-K-Frequent-Elements/Solution2.java) |
 | 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0349-Intersection-of-Two-Arrays/Solution.java) | 集合 |
-| 350 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0350-Intersection-of-Two-Arrays-II) | 映射/排序+双指针 |
+| 350 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0350-Intersection-of-Two-Arrays-II) | [查找表](https://github.com/Caleb411/My-Leetcode/blob/master/0350-Intersection-of-Two-Arrays-II/Solution.java)/[排序+双指针](https://github.com/Caleb411/My-Leetcode/blob/master/0350-Intersection-of-Two-Arrays-II/Solution2.java) |
 | 380 | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | [给我 O(1) 时间，我能查找/删除数组中的任意元素](https://mp.weixin.qq.com/s/eEhW8ByTA9fJv1FmT1lVsw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0380-Insert-Delete-GetRandom-O(1)/Solution.java) | 随机读取 |
 | 404 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0404-Sum-of-Left-Leaves/Solution.java) | 前序遍历 |
+| 410 | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) | [二分查找算法如何运用？我和快手面试官进行了深入探讨…](https://mp.weixin.qq.com/s/0OaNLfQznaJAkjx870xRLQ) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0410-Split-Array-Largest-Sum/Solution.java) | 贪心+二分查找 |
 | 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0538-Convert-BST-to-Greater-Tree/Solution.java) | 中序遍历 |
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0538-Convert-BST-to-Greater-Tree/Solution.java) | 中序遍历 |
 | 567 | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) | [我写了套框架，把滑动窗口算法变成了默写题](https://mp.weixin.qq.com/s/ioKXTMZufDECBUwRRp3zaA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0567-Permutation-in-String/Solution.java) | 滑动窗口 |
@@ -66,7 +75,9 @@
 | 841 | [钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0841-Keys-and-Rooms/Solution.java) | 深度优先遍历 |
 | 921 | [使括号有效的最少添加](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/) | [手把手解决三道括号相关的算法题](https://mp.weixin.qq.com/s/plxWQsTgW6LW3T7yBAXjQg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0921-Minimum-Add-to-Make-Parentheses-Valid/Solution.java) | 括号匹配 |
 | 946 | [验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0946-Validate-Stack-Sequences/Solution.java) | 栈 |
+| 977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0977-Squares-of-a-Sorted-Array/Solution.java) | 双指针 |
 | 986 | [区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections/) | [一文秒杀所有区间相关问题](https://mp.weixin.qq.com/s/Eb6ewVajH56cUlY9LetRJw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0986-Interval-List-Intersections/Solution.java) | 区间 |
+| 1002 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1002-Find-Common-Characters/Solution.java) | 计数 |
 | 1109 | [航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/) | [论那些小而美的算法技巧：差分数组/前缀和](https://mp.weixin.qq.com/s/9L6lz0XDZ9gi-d_iPrSs8Q) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1109-Corporate-Flight-Bookings/Solution.java) | 差分数组 |
 | 1288 | [删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/) | [一文秒杀所有区间相关问题](https://mp.weixin.qq.com/s/Eb6ewVajH56cUlY9LetRJw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1288-Remove-Covered-Intervals/Solution.java) | 区间 |
 | 1541 | [平衡括号字符串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [手把手解决三道括号相关的算法题](https://mp.weixin.qq.com/s/plxWQsTgW6LW3T7yBAXjQg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1541-Minimum-Insertions-to-Balance-a-Parentheses-String/Solution.java) | 括号匹配 |
