@@ -6,17 +6,19 @@
 // monotonous stack
 // Time Complexity: O(n)
 // Space Complexity: O(n)
-// 这里计算的是距离，所以单调栈里存的是索引，比较的时候要根据索引取出值比较
+// 将数组长度翻倍：可以不用构造新数组，而是利用循环数组的技巧来模拟数组长度翻倍的效果
 class Solution {
-    public int[] dailyTemperatures(int[] T) {
-        int[] res = new int[T.length];
+    public int[] nextGreaterElements(int[] nums) {
+        int n = nums.length;
+        int[] res = new int[n];
         Deque<Integer> stack = new LinkedList<>();
-        for(int i = T.length-1;i >= 0;i--){
-            while(!stack.isEmpty() && T[stack.peek()] <= T[i]){
+        // 假装这个数组长度翻倍了，索引要求模
+        for(int i = nums.length*2-1;i >= 0;i--){
+            while(!stack.isEmpty() && stack.peek() <= nums[i%n]){
                 stack.pop();
             }
-            res[i] = stack.isEmpty() ? 0: stack.peek()-i;
-            stack.push(i);
+            res[i%n] = stack.isEmpty() ? -1: stack.peek();
+            stack.push(nums[i%n]);
         }
         return res;
     }
