@@ -6,12 +6,15 @@
 |  20  | [表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/%E5%89%91%E6%8C%87Offer20-%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2/Solution.java) |
 |  40  | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/%E5%89%91%E6%8C%87Offer40-%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0/Solution.java) |
 
-## 动态规划系列（按做题顺序排列，共2题）
+## 动态规划系列（按做题顺序排列，共5题）
 
 | 题号 | 问题                                                         | 参考资料                                                     |                           我的解答                           |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------: |
 | 509  | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | [动态规划详解（修订版）](https://mp.weixin.qq.com/s/Cw39C9MY9Wr2JlcvBQZMcA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0509-Fibonacci-Number/Solution.java) |
 | 322  | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)    | [动态规划详解（修订版）](https://mp.weixin.qq.com/s/Cw39C9MY9Wr2JlcvBQZMcA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0322-Coin-Change/Solution.java) |
+| 845  | [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | [官方题解](https://leetcode-cn.com/problems/longest-mountain-in-array/solution/shu-zu-zhong-de-zui-chang-shan-mai-by-leetcode-sol/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0845-Longest-Mountain-in-Array/Solution.java) |
+| 1143 | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | [详解最长公共子序列问题](https://mp.weixin.qq.com/s/ZhPEchewfc03xWv9VP3msg) | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/1143-Longest-Common-Subsequence) |
+| 712  | [两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [详解最长公共子序列问题](https://mp.weixin.qq.com/s/ZhPEchewfc03xWv9VP3msg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0712-Minimum-ASCII-Delete-Sum-for-Two-Strings/Solution.java) |
 |      |                                                              |                                                              |                                                              |
 
 ## 回溯算法系列（按做题顺序排列，共2题）
@@ -22,7 +25,7 @@
 | 51   | [N 皇后](https://leetcode-cn.com/problems/n-queens/)     | [回溯算法解题套路框架](https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie-qing-an-shun-xu-yue-du/hui-su-suan-fa-xiang-jie-xiu-ding-ban) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0051-N-Queens/Solution.java) |
 |      |                                                          |                                                              |                                                              |
 
-## 其他题目（按题号顺序排列，共64题）
+## 其他题目（按题号顺序排列，共66题）
 
 | 题号 | 问题 | 参考资料 | 我的解答 | 类别 |
 | :---- | :--- | :--- | :---: | :---- |
@@ -46,6 +49,7 @@
 | 114 | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [东哥手把手带你套框架刷通二叉树（一）](https://mp.weixin.qq.com/s/izZ5uiWzTagagJec6Y7RvQ) | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0114-Flatten-Binary-Tree-to-Linked-List) | 后序遍历 |
 | 116 | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [东哥手把手带你套框架刷通二叉树（一）](https://mp.weixin.qq.com/s/izZ5uiWzTagagJec6Y7RvQ) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0116-Populating-Next-Right-Pointers-in-Each-Node/Solution.java) | 前序遍历 |
 | 117 | [填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0117-Populating-Next-Right-Pointers-in-Each-Node-II) | 层序遍历 |
+| 129 | [求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0129-Sum-Root-to-Leaf-Numbers) | [遍历+回溯](https://github.com/Caleb411/My-Leetcode/blob/master/0129-Sum-Root-to-Leaf-Numbers/Solution.java)/[遍历](https://github.com/Caleb411/My-Leetcode/blob/master/0129-Sum-Root-to-Leaf-Numbers/Solution2.java) |
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [双指针技巧汇总](https://mp.weixin.qq.com/s/yLc7-CZdti8gEMGWhd0JTg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0141-Linked-List-Cycle/Solution.java) | 快慢指针 |
 | 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [双指针技巧汇总](https://mp.weixin.qq.com/s/yLc7-CZdti8gEMGWhd0JTg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0002-Add-Two-Numbers/Solution.java) | 快慢指针 |
 | 143 | [重排链表](https://leetcode-cn.com/problems/reorder-list/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0143-Reorder-List/Solution.java) | 线性表 |
@@ -89,4 +93,5 @@
 | 1024 | [视频拼接](https://leetcode-cn.com/problems/video-stitching/) | [双100%题解](https://leetcode-cn.com/problems/video-stitching/solution/java-shuang-100-chao-ji-jian-dan-yi-dong-by-meitia/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1024-Video-Stitching/Solution.java) | 贪心 |
 | 1109 | [航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/) | [论那些小而美的算法技巧：差分数组/前缀和](https://mp.weixin.qq.com/s/9L6lz0XDZ9gi-d_iPrSs8Q) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1109-Corporate-Flight-Bookings/Solution.java) | 差分数组 |
 | 1288 | [删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/) | [一文秒杀所有区间相关问题](https://mp.weixin.qq.com/s/Eb6ewVajH56cUlY9LetRJw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1288-Remove-Covered-Intervals/Solution.java) | 区间 |
+| 1365 | [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [官方题解](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/solution/you-duo-shao-xiao-yu-dang-qian-shu-zi-de-shu-zi--2/) | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number) | [查找表+排序](https://github.com/Caleb411/My-Leetcode/blob/master/1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number/Solution.java)/[计数排序](https://github.com/Caleb411/My-Leetcode/blob/master/1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number/Solution2.java) |
 | 1541 | [平衡括号字符串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [手把手解决三道括号相关的算法题](https://mp.weixin.qq.com/s/plxWQsTgW6LW3T7yBAXjQg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1541-Minimum-Insertions-to-Balance-a-Parentheses-String/Solution.java) | 括号匹配 |
