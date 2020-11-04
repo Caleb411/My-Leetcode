@@ -6,7 +6,7 @@
 |  20  | [表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/%E5%89%91%E6%8C%87Offer20-%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2/Solution.java) |
 |  40  | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/%E5%89%91%E6%8C%87Offer40-%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0/Solution.java) |
 
-## 动态规划系列（按做题顺序排列，共5题）
+## 动态规划系列（按做题顺序排列，共7题）
 
 | 题号 | 问题                                                         | 参考资料                                                     |                           我的解答                           |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------: |
@@ -15,6 +15,8 @@
 | 845  | [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | [官方题解](https://leetcode-cn.com/problems/longest-mountain-in-array/solution/shu-zu-zhong-de-zui-chang-shan-mai-by-leetcode-sol/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0845-Longest-Mountain-in-Array/Solution.java) |
 | 1143 | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | [详解最长公共子序列问题](https://mp.weixin.qq.com/s/ZhPEchewfc03xWv9VP3msg) | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/1143-Longest-Common-Subsequence) |
 | 712  | [两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [详解最长公共子序列问题](https://mp.weixin.qq.com/s/ZhPEchewfc03xWv9VP3msg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0712-Minimum-ASCII-Delete-Sum-for-Two-Strings/Solution.java) |
+| 139  | [单词拆分](https://leetcode-cn.com/problems/word-break/)     | [官方题解](https://leetcode-cn.com/problems/word-break/solution/dan-ci-chai-fen-by-leetcode-solution/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0139-Word-Break/Solution.java) |
+| 140  | [单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/) | [精选题解](https://leetcode-cn.com/problems/word-break-ii/solution/dong-tai-gui-hua-hui-su-qiu-jie-ju-ti-zhi-python-d/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0140-Word-Break-II/Solution.java) |
 |      |                                                              |                                                              |                                                              |
 
 ## 回溯算法系列（按做题顺序排列，共2题）
@@ -25,7 +27,7 @@
 | 51   | [N 皇后](https://leetcode-cn.com/problems/n-queens/)     | [回溯算法解题套路框架](https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie-qing-an-shun-xu-yue-du/hui-su-suan-fa-xiang-jie-xiu-ding-ban) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0051-N-Queens/Solution.java) |
 |      |                                                          |                                                              |                                                              |
 
-## 其他题目（按题号顺序排列，共66题）
+## 其他题目（按题号顺序排列，共69题）
 
 | 题号 | 问题 | 参考资料 | 我的解答 | 类别 |
 | :---- | :--- | :--- | :---: | :---- |
@@ -39,6 +41,7 @@
 | 42 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [手把手搞懂接雨水问题的多种解法](https://mp.weixin.qq.com/s/mFqrlhqYEPhRa9p4ewl3Xw) | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0042-Trapping-Rain-Water) | [暴力](https://github.com/Caleb411/My-Leetcode/blob/master/0042-Trapping-Rain-Water/Solution.java)/[备忘录](https://github.com/Caleb411/My-Leetcode/blob/master/0042-Trapping-Rain-Water/Solution2.java)/[对撞指针](https://github.com/Caleb411/My-Leetcode/blob/master/0042-Trapping-Rain-Water/Solution3.java) |
 | 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [漫画：如何螺旋遍历二维数组？（修订版）](https://mp.weixin.qq.com/s/FcCALo3tKWZpP2FE_16R5g) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0054-Spiral-Matrix/Solution.java) | 数组 |
 | 56 | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [一文秒杀所有区间相关问题](https://mp.weixin.qq.com/s/Eb6ewVajH56cUlY9LetRJw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0056-Merge-Intervals/Solution.java) | 区间 |
+| 57 | [插入区间](https://leetcode-cn.com/problems/insert-interval/) | [「手画图解」分成3个阶段考察](https://leetcode-cn.com/problems/insert-interval/solution/shou-hua-tu-jie-57-cha-ru-qu-jian-fen-cheng-3ge-ji/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0057-Insert-Interval/Solution.java) | 区间 |
 | 75 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0075-Sort-Colors) | 三路快排 |
 | 76 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | [我写了套框架，把滑动窗口算法变成了默写题](https://mp.weixin.qq.com/s/ioKXTMZufDECBUwRRp3zaA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0076-Minimum-Window-Substring/Solution.java) | 滑动窗口 |
 | 80 | [删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0080-Remove-Duplicates-from-Sorted-Array-II) | 数组 |
@@ -63,16 +66,19 @@
 | 232 | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [算法之美 : 栈和队列](https://mp.weixin.qq.com/s/DEJ8SYvH-WuIX4PPvqk0Ow) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0232-Implement-Queue-using-Stacks/MyQueue.java) | 栈和队列 |
 | 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/Solution.java) | 二分搜索树查找 |
 | 236 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [用 Git 来讲讲二叉树最近公共祖先](https://mp.weixin.qq.com/s/9RKzBcr3I592spAsuMH45g) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0236-Lowest-Common-Ancestor-of-a-Binary-Tree/Solution.java) | 后序遍历 |
+| 239 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | [单调队列解决滑动窗口问题](https://mp.weixin.qq.com/s/-ZQ1G4JuZCyYSCj1A3ApFw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0239-Sliding-Window-Maximum/Solution.java) | 单调队列 |
 | 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0257-Binary-Tree-Paths/Solution.java) | 深度优先遍历 |
-| 295 | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | [啊这，一道找中位数的算法题把东哥整不会了…](https://mp.weixin.qq.com/s/oklQN_xjYy--_fbFkd9wMg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0295-Find-Median-from-Data-Stream/MedianFinder.java) | 双堆法 |
-| 316 | [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) | [啊这，一道数组去重的算法题把东哥整不会了…](https://mp.weixin.qq.com/s/Yq49ZBEW3DJx6nXk1fMusw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0316-Remove-Duplicate-Letters/Solution.java) | 单调栈 |
+| 295 | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | [一道找中位数的算法题](https://mp.weixin.qq.com/s/oklQN_xjYy--_fbFkd9wMg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0295-Find-Median-from-Data-Stream/MedianFinder.java) | 双堆法 |
+| 316 | [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) | [一道数组去重的算法题](https://mp.weixin.qq.com/s/Yq49ZBEW3DJx6nXk1fMusw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0316-Remove-Duplicate-Letters/Solution.java) | 单调栈 |
 | 345 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0345-Reverse-Vowels-of-a-String/Solution.java) | 对撞指针 |
 | 347 | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0347-Top-K-Frequent-Elements) | [最小堆](https://github.com/Caleb411/My-Leetcode/blob/master/0347-Top-K-Frequent-Elements/Solution.java)/[桶排序](https://github.com/Caleb411/My-Leetcode/blob/master/0347-Top-K-Frequent-Elements/Solution2.java) |
 | 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0349-Intersection-of-Two-Arrays/Solution.java) | 集合 |
 | 350 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0350-Intersection-of-Two-Arrays-II) | [查找表](https://github.com/Caleb411/My-Leetcode/blob/master/0350-Intersection-of-Two-Arrays-II/Solution.java)/[排序+双指针](https://github.com/Caleb411/My-Leetcode/blob/master/0350-Intersection-of-Two-Arrays-II/Solution2.java) |
-| 380 | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | [给我 O(1) 时间，我能查找/删除数组中的任意元素](https://mp.weixin.qq.com/s/eEhW8ByTA9fJv1FmT1lVsw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0380-Insert-Delete-GetRandom-O(1)/Solution.java) | 随机读取 |
+| 380 | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | [给我 O(1) 时间，我能查找/删除数组中的任意元素](https://mp.weixin.qq.com/s/eEhW8ByTA9fJv1FmT1lVsw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0380-Insert-Delete-GetRandom-O(1)/RandomizedSet.java) | 随机读取 |
+| 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [官方题解](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/solution/o1-shi-jian-cha-ru-shan-chu-he-huo-qu-sui-ji-yua-5/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0381-Insert-Delete-GetRandom-O(1)-Duplicates-allowed/RandomizedCollection.java) | 随机读取 |
 | 404 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0404-Sum-of-Left-Leaves/Solution.java) | 前序遍历 |
 | 410 | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) | [二分查找算法如何运用？我和快手面试官进行了深入探讨…](https://mp.weixin.qq.com/s/0OaNLfQznaJAkjx870xRLQ) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0410-Split-Array-Largest-Sum/Solution.java) | 贪心+二分查找 |
+| 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0463-Island-Perimeter/Solution.java) | Floodfill |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | [单调栈解题模板秒杀三道算法题](https://mp.weixin.qq.com/s/KYfjBejo84AmajnPZNs5nA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0496-Next-Greater-Element-I/Solution.java) | 单调栈 |
 | 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0538-Convert-BST-to-Greater-Tree/Solution.java) | 中序遍历 |
 | 503 | [下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) | [单调栈解题模板秒杀三道算法题](https://mp.weixin.qq.com/s/KYfjBejo84AmajnPZNs5nA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0503-Next-Greater-Element-II/Solution.java) | 单调栈 |
