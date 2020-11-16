@@ -1,12 +1,13 @@
 # My-Leetcode:coffee:
-## 剑指Offer（按题号顺序排列，共2题）
+## 剑指Offer
 
 | 题号 | 问题                                                         |                           我的解答                           |
 | :--: | ------------------------------------------------------------ | :----------------------------------------------------------: |
 |  20  | [表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/%E5%89%91%E6%8C%87Offer20-%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2/Solution.java) |
 |  40  | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/%E5%89%91%E6%8C%87Offer40-%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0/Solution.java) |
+|      |                                                              |                                                              |
 
-## 动态规划系列（按做题顺序排列，共7题）
+## 动态规划
 
 | 题号 | 问题                                                         | 参考资料                                                     |                           我的解答                           |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------: |
@@ -19,7 +20,7 @@
 | 140  | [单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/) | [精选题解](https://leetcode-cn.com/problems/word-break-ii/solution/dong-tai-gui-hua-hui-su-qiu-jie-ju-ti-zhi-python-d/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0140-Word-Break-II/Solution.java) |
 |      |                                                              |                                                              |                                                              |
 
-## 回溯算法系列（按做题顺序排列，共2题）
+## 回溯算法
 
 | 题号 | 问题                                                     | 参考资料                                                     |                           我的解答                           |
 | ---- | -------------------------------------------------------- | ------------------------------------------------------------ | :----------------------------------------------------------: |
@@ -27,7 +28,7 @@
 | 51   | [N 皇后](https://leetcode-cn.com/problems/n-queens/)     | [回溯算法解题套路框架](https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie-qing-an-shun-xu-yue-du/hui-su-suan-fa-xiang-jie-xiu-ding-ban) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0051-N-Queens/Solution.java) |
 |      |                                                          |                                                              |                                                              |
 
-## 其他题目（按题号顺序排列，共69题）
+## 其他
 
 | 题号 | 问题 | 参考资料 | 我的解答 | 类别 |
 | :---- | :--- | :--- | :---: | :---- |
@@ -38,6 +39,7 @@
 | 14 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0014-Longest-Common-Prefix/Solution.java) | 贪心 |
 | 15 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [一个函数秒杀 2Sum 3Sum 4Sum 问题](https://mp.weixin.qq.com/s/fSyJVvggxHq28a0SdmZm6Q) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0015-3Sum/Solution.java) | 排序+双指针 |
 | 19 | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0019-Remove-Nth-Node-From-End-of-List/Solution.java) | 快慢指针 |
+| 31 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [官方题解](https://leetcode-cn.com/problems/next-permutation/solution/xia-yi-ge-pai-lie-by-leetcode-solution/) [精选题解](https://leetcode-cn.com/problems/next-permutation/solution/xia-yi-ge-pai-lie-suan-fa-xiang-jie-si-lu-tui-dao-/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0031-Next-Permutation/Solution.java) | 贪心 |
 | 42 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [手把手搞懂接雨水问题的多种解法](https://mp.weixin.qq.com/s/mFqrlhqYEPhRa9p4ewl3Xw) | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0042-Trapping-Rain-Water) | [暴力](https://github.com/Caleb411/My-Leetcode/blob/master/0042-Trapping-Rain-Water/Solution.java)/[备忘录](https://github.com/Caleb411/My-Leetcode/blob/master/0042-Trapping-Rain-Water/Solution2.java)/[对撞指针](https://github.com/Caleb411/My-Leetcode/blob/master/0042-Trapping-Rain-Water/Solution3.java) |
 | 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [漫画：如何螺旋遍历二维数组？（修订版）](https://mp.weixin.qq.com/s/FcCALo3tKWZpP2FE_16R5g) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0054-Spiral-Matrix/Solution.java) | 数组 |
 | 56 | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [一文秒杀所有区间相关问题](https://mp.weixin.qq.com/s/Eb6ewVajH56cUlY9LetRJw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0056-Merge-Intervals/Solution.java) | 区间 |
@@ -52,6 +54,7 @@
 | 114 | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [东哥手把手带你套框架刷通二叉树（一）](https://mp.weixin.qq.com/s/izZ5uiWzTagagJec6Y7RvQ) | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0114-Flatten-Binary-Tree-to-Linked-List) | 后序遍历 |
 | 116 | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [东哥手把手带你套框架刷通二叉树（一）](https://mp.weixin.qq.com/s/izZ5uiWzTagagJec6Y7RvQ) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0116-Populating-Next-Right-Pointers-in-Each-Node/Solution.java) | 前序遍历 |
 | 117 | [填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0117-Populating-Next-Right-Pointers-in-Each-Node-II) | 层序遍历 |
+| 127 | [单词接龙](https://leetcode-cn.com/problems/word-ladder/) | [精选题解](https://leetcode-cn.com/problems/word-ladder/solution/yan-du-you-xian-bian-li-shuang-xiang-yan-du-you-2/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0127-Word-Ladder/Solution.java) | 最短路径 |
 | 129 | [求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0129-Sum-Root-to-Leaf-Numbers) | [遍历+回溯](https://github.com/Caleb411/My-Leetcode/blob/master/0129-Sum-Root-to-Leaf-Numbers/Solution.java)/[遍历](https://github.com/Caleb411/My-Leetcode/blob/master/0129-Sum-Root-to-Leaf-Numbers/Solution2.java) |
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [双指针技巧汇总](https://mp.weixin.qq.com/s/yLc7-CZdti8gEMGWhd0JTg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0141-Linked-List-Cycle/Solution.java) | 快慢指针 |
 | 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [双指针技巧汇总](https://mp.weixin.qq.com/s/yLc7-CZdti8gEMGWhd0JTg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0002-Add-Two-Numbers/Solution.java) | 快慢指针 |
@@ -70,13 +73,16 @@
 | 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0257-Binary-Tree-Paths/Solution.java) | 深度优先遍历 |
 | 295 | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | [一道找中位数的算法题](https://mp.weixin.qq.com/s/oklQN_xjYy--_fbFkd9wMg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0295-Find-Median-from-Data-Stream/MedianFinder.java) | 双堆法 |
 | 316 | [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) | [一道数组去重的算法题](https://mp.weixin.qq.com/s/Yq49ZBEW3DJx6nXk1fMusw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0316-Remove-Duplicate-Letters/Solution.java) | 单调栈 |
+| 328 | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [官方题解](https://leetcode-cn.com/problems/odd-even-linked-list/solution/qi-ou-lian-biao-by-leetcode-solution/) | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0328-Odd-Even-Linked-List) | [双指针](https://github.com/Caleb411/My-Leetcode/blob/master/0328-Odd-Even-Linked-List/Solution.java)/[链表](https://github.com/Caleb411/My-Leetcode/blob/master/0328-Odd-Even-Linked-List/Solution2.java) |
 | 345 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0345-Reverse-Vowels-of-a-String/Solution.java) | 对撞指针 |
 | 347 | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0347-Top-K-Frequent-Elements) | [最小堆](https://github.com/Caleb411/My-Leetcode/blob/master/0347-Top-K-Frequent-Elements/Solution.java)/[桶排序](https://github.com/Caleb411/My-Leetcode/blob/master/0347-Top-K-Frequent-Elements/Solution2.java) |
 | 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0349-Intersection-of-Two-Arrays/Solution.java) | 集合 |
 | 350 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0350-Intersection-of-Two-Arrays-II) | [查找表](https://github.com/Caleb411/My-Leetcode/blob/master/0350-Intersection-of-Two-Arrays-II/Solution.java)/[排序+双指针](https://github.com/Caleb411/My-Leetcode/blob/master/0350-Intersection-of-Two-Arrays-II/Solution2.java) |
 | 380 | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | [给我 O(1) 时间，我能查找/删除数组中的任意元素](https://mp.weixin.qq.com/s/eEhW8ByTA9fJv1FmT1lVsw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0380-Insert-Delete-GetRandom-O(1)/RandomizedSet.java) | 随机读取 |
 | 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [官方题解](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/solution/o1-shi-jian-cha-ru-shan-chu-he-huo-qu-sui-ji-yua-5/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0381-Insert-Delete-GetRandom-O(1)-Duplicates-allowed/RandomizedCollection.java) | 随机读取 |
+| 402 | [移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/) | [官方题解](https://leetcode-cn.com/problems/remove-k-digits/solution/yi-diao-kwei-shu-zi-by-leetcode-solution/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0402-Remove-K-Digits/Solution.java) | 贪心+单调栈 |
 | 404 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0404-Sum-of-Left-Leaves/Solution.java) | 前序遍历 |
+| 406 | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [高赞题解](https://leetcode-cn.com/problems/queue-reconstruction-by-height/solution/406-gen-ju-shen-gao-zhong-jian-dui-lie-java-xian-p/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0406-Queue-Reconstruction-by-Height/Solution.java) | 贪心 |
 | 410 | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) | [二分查找算法如何运用？我和快手面试官进行了深入探讨…](https://mp.weixin.qq.com/s/0OaNLfQznaJAkjx870xRLQ) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0410-Split-Array-Largest-Sum/Solution.java) | 贪心+二分查找 |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0463-Island-Perimeter/Solution.java) | Floodfill |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | [单调栈解题模板秒杀三道算法题](https://mp.weixin.qq.com/s/KYfjBejo84AmajnPZNs5nA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0496-Next-Greater-Element-I/Solution.java) | 单调栈 |
