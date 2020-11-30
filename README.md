@@ -1,4 +1,4 @@
-# My-Leetcode(Total: 90):coffee:
+# My-Leetcode(Total: 95):coffee:
 ## 剑指Offer
 
 | 题号 | 问题                                                         |                           我的解答                           |
@@ -28,7 +28,7 @@
 | 51   | [N 皇后](https://leetcode-cn.com/problems/n-queens/)     | [回溯算法解题套路框架](https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie-qing-an-shun-xu-yue-du/hui-su-suan-fa-xiang-jie-xiu-ding-ban) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0051-N-Queens/Solution.java) |
 |      |                                                          |                                                              |                                                              |
 
-## 其他
+## 其他（包含每日一题）
 
 | 题号 | 问题 | 参考资料 | 我的解答 | 类别 |
 | :---- | :--- | :--- | :---: | :---- |
@@ -62,6 +62,7 @@
 | 145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0145-Binary-Tree-Postorder-Traversal/Solution.java) | 非递归 |
 | 147 | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | [官方题解](https://leetcode-cn.com/problems/insertion-sort-list/solution/dui-lian-biao-jin-xing-cha-ru-pai-xu-by-leetcode-s/) | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0147-Insertion-Sort-List) | [链表](https://github.com/Caleb411/My-Leetcode/blob/master/0147-Insertion-Sort-List/Solution.java)/[优化](https://github.com/Caleb411/My-Leetcode/blob/master/0147-Insertion-Sort-List/Solution2.java) |
 | 148 | [排序链表](https://leetcode-cn.com/problems/sort-list/) | [精选题解](https://leetcode-cn.com/problems/sort-list/solution/sort-list-gui-bing-pai-xu-lian-biao-by-jyd/) [官方题解](https://leetcode-cn.com/problems/sort-list/solution/pai-xu-lian-biao-by-leetcode-solution/) [官方题解评论](https://leetcode-cn.com/problems/sort-list/solution/pai-xu-lian-biao-by-leetcode-solution/675207) | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0148-Sort-List) | [归并](https://github.com/Caleb411/My-Leetcode/blob/master/0148-Sort-List/Solution.java)/[非递归](https://github.com/Caleb411/My-Leetcode/blob/master/0148-Sort-List/Solution2.java) |
+| 164 | [最大间距](https://leetcode-cn.com/problems/maximum-gap/) | [官方题解方法二](https://leetcode-cn.com/problems/maximum-gap/solution/zui-da-jian-ju-by-leetcode-solution/) [高赞题解](https://leetcode-cn.com/problems/maximum-gap/solution/python3-tong-pai-xu-by-yanghk/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0164-Maximum-Gap/Solution.java) | 桶排序 |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0167-Two-Sum-II-Input-array-is-sorted) | [二分查找](https://github.com/Caleb411/My-Leetcode/blob/master/0167-Two-Sum-II-Input-array-is-sorted/Solution.java)/[对撞指针](https://github.com/Caleb411/My-Leetcode/blob/master/0167-Two-Sum-II-Input-array-is-sorted/Solution2.java) |
 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | - | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/0206-Reverse-Linked-List) | 链表 |
 | 209 | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0209-Minimum-Size-Subarray-Sum/Solution.java) | 滑动窗口 |
@@ -73,6 +74,7 @@
 | 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/Solution.java) | 二分搜索树查找 |
 | 236 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [用 Git 来讲讲二叉树最近公共祖先](https://mp.weixin.qq.com/s/9RKzBcr3I592spAsuMH45g) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0236-Lowest-Common-Ancestor-of-a-Binary-Tree/Solution.java) | 后序遍历 |
 | 239 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | [单调队列解决滑动窗口问题](https://mp.weixin.qq.com/s/-ZQ1G4JuZCyYSCj1A3ApFw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0239-Sliding-Window-Maximum/Solution.java) | 单调队列 |
+| 241 | [为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/) | [分治算法详解：表达式的不同优先级](https://mp.weixin.qq.com/s/fcCJFk89w953gXDjnlZFIA) |  | 分治 |
 | 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0257-Binary-Tree-Paths/Solution.java) | 深度优先遍历 |
 | 295 | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | [一道找中位数的算法题](https://mp.weixin.qq.com/s/oklQN_xjYy--_fbFkd9wMg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0295-Find-Median-from-Data-Stream/MedianFinder.java) | 双堆法 |
 | 316 | [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) | [一道数组去重的算法题](https://mp.weixin.qq.com/s/Yq49ZBEW3DJx6nXk1fMusw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0316-Remove-Duplicate-Letters/Solution.java) | 单调栈 |
@@ -89,6 +91,7 @@
 | 406 | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [高赞题解](https://leetcode-cn.com/problems/queue-reconstruction-by-height/solution/406-gen-ju-shen-gao-zhong-jian-dui-lie-java-xian-p/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0406-Queue-Reconstruction-by-Height/Solution.java) | 贪心 |
 | 410 | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) | [二分查找算法如何运用？我和快手面试官进行了深入探讨…](https://mp.weixin.qq.com/s/0OaNLfQznaJAkjx870xRLQ) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0410-Split-Array-Largest-Sum/Solution.java) | 贪心+二分查找 |
 | 452 | [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [高赞题解](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/solution/tu-jie-tan-tao-wei-shi-yao-yao-an-qu-jian-de-you-d/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0452-Minimum-Number-of-Arrows-to-Burst-Balloons/Solution.java) | 区间+贪心 |
+| 454 | [四数相加 II](https://leetcode-cn.com/problems/4sum-ii/) | [官方题解](https://leetcode-cn.com/problems/4sum-ii/solution/si-shu-xiang-jia-ii-by-leetcode-solution/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0454-4Sum-II/Solution.java) | 分组+查找表 |
 | 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0463-Island-Perimeter/Solution.java) | Floodfill |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) | [单调栈解题模板秒杀三道算法题](https://mp.weixin.qq.com/s/KYfjBejo84AmajnPZNs5nA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0496-Next-Greater-Element-I/Solution.java) | 单调栈 |
 | 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0538-Convert-BST-to-Greater-Tree/Solution.java) | 中序遍历 |
@@ -100,6 +103,7 @@
 | 710 | [黑名单中的随机数](https://leetcode-cn.com/problems/random-pick-with-blacklist/) | [给我 O(1) 时间，我能查找/删除数组中的任意元素](https://mp.weixin.qq.com/s/eEhW8ByTA9fJv1FmT1lVsw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0710-Random-Pick-with-Blacklist/Solution.java) | 随机读取 |
 | 739 | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [单调栈解题模板秒杀三道算法题](https://mp.weixin.qq.com/s/KYfjBejo84AmajnPZNs5nA) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0739-Daily-Temperatures/Solution.java) | 单调栈 |
 | 763 | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | [官方题解](https://leetcode-cn.com/problems/partition-labels/solution/hua-fen-zi-mu-qu-jian-by-leetcode-solution/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0763-Partition-Labels/Solution.java) | 贪心 |
+| 767 | [重构字符串](https://leetcode-cn.com/problems/reorganize-string/) | [高赞题解](https://leetcode-cn.com/problems/reorganize-string/solution/javadai-ma-ji-bai-liao-100de-yong-hu-by-sdwwld/) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0767-Reorganize-String/Solution.java) | 贪心+计数排序 |
 | 841 | [钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0841-Keys-and-Rooms/Solution.java) | 深度优先遍历 |
 | 921 | [使括号有效的最少添加](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/) | [手把手解决三道括号相关的算法题](https://mp.weixin.qq.com/s/plxWQsTgW6LW3T7yBAXjQg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0921-Minimum-Add-to-Make-Parentheses-Valid/Solution.java) | 括号匹配 |
 | 925 | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/0925-Long-Pressed-Name/Solution.java) | 双指针 |
@@ -111,4 +115,5 @@
 | 1109 | [航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/) | [论那些小而美的算法技巧：差分数组/前缀和](https://mp.weixin.qq.com/s/9L6lz0XDZ9gi-d_iPrSs8Q) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1109-Corporate-Flight-Bookings/Solution.java) | 差分数组 |
 | 1288 | [删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/) | [一文秒杀所有区间相关问题](https://mp.weixin.qq.com/s/Eb6ewVajH56cUlY9LetRJw) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1288-Remove-Covered-Intervals/Solution.java) | 区间 |
 | 1365 | [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [官方题解](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/solution/you-duo-shao-xiao-yu-dang-qian-shu-zi-de-shu-zi--2/) | [Java](https://github.com/Caleb411/My-Leetcode/tree/master/1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number) | [查找表+排序](https://github.com/Caleb411/My-Leetcode/blob/master/1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number/Solution.java)/[计数排序](https://github.com/Caleb411/My-Leetcode/blob/master/1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number/Solution2.java) |
+| 1370 | [上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) | - | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1370-Increasing-Decreasing-String/Solution.java) | 计数排序 |
 | 1541 | [平衡括号字符串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [手把手解决三道括号相关的算法题](https://mp.weixin.qq.com/s/plxWQsTgW6LW3T7yBAXjQg) | [Java](https://github.com/Caleb411/My-Leetcode/blob/master/1541-Minimum-Insertions-to-Balance-a-Parentheses-String/Solution.java) | 括号匹配 |
